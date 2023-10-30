@@ -15,6 +15,7 @@ const initialState = {
     [MENU_ITEMS.DOWNLOAD]: {},
 }
 
+
 export const toolboxSlice = createSlice({
     name: 'toolbox',
     initialState,
