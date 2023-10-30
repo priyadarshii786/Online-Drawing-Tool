@@ -14,6 +14,7 @@ const MENU_ITEMS = {
     UNDO: 'UNDO',
     REDO: 'REDO',
     DOWNLOAD: 'DOWNLOAD'
+
 }
 
 export { COLORS, MENU_ITEMS }
